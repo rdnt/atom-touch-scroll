@@ -1,0 +1,22 @@
+{
+  "name": "touch-scroll",
+  "main": "./lib/touch-scroll",
+  "version": "1.0.0",
+  "description": "Adds touch scroll functionality on editor buffers.",
+  "keywords": [
+    "scroll",
+    "touch",
+    "touch-scroll",
+    "SHT",
+    "atom-touch-scroll",
+    "surface",
+    "touchscreen",
+    "macbook"
+  ],
+  "repository": "https://github.com/SHT/Touch-Scroll",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
